@@ -6,7 +6,6 @@ Repository for Elitium Smart Contracts
 Elitium provides a luxury lifestyle platform for its clientele
 using a sustainable cryptocurrency solution.<br>
 <br>
-
 There’s a paradox in luxury. We long for indulgence, simplicity, an abundance of unique experiences at our fingertips, all without stress. Yet as aspirations grow, so does the paperwork and process, we must endure to realize the dream.
 
 The Elitium Network redresses the balance.
