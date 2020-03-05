@@ -1,0 +1,23 @@
+storage: ./storage
+auth:
+  htpasswd:
+    file: ./htpasswd
+uplinks:
+  npmjs:
+    url: https://registry.npmjs.org/
+    timeout: 100000ms
+  yarn:
+    url: https://registry.yarnpkg.com/
+    timeout: 100000ms
+packages:
+  '@*/*':
+    # scoped packages
+    access: $all
+    publish: $all
+    proxy: npmjs
+  '**':
+    access: $all
+    publish: $all
+    proxy: npmjs
+logs:
+  - {type: stdout, format: pretty, level: warn}
