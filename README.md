@@ -18,6 +18,8 @@ With Elitium, members-only parties at the Monaco Grand Prix are nothing less tha
 
 As the Elitium Network is exclusive. It is the only app in the world to connect a global user base with leading luxury brands in a curated ecosystem — meaning the world can benefit from seamless access to luxury goods and services through a single platform, anywhere in the world.
 
+<br>
+<br>
 
 <p align="center">For more information<br>
 https://www.elitium.io</p>
